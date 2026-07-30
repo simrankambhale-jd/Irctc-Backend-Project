@@ -60,7 +60,3 @@ src
 ## Author
 
 Simran Kambhale
-
-## Author
-
-Simran Kambhale
